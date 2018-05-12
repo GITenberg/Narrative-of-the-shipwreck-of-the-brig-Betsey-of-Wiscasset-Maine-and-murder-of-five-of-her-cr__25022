@@ -1,0 +1,29 @@
+_repo: Narrative-of-the-shipwreck-of-the-brig-Betsey-of-Wiscasset-Maine-and-murder-of-five-of-her-cr__25022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Daniel
+    gutenberg_agent_id: '28347'
+    url: http://www.gutenberg.org/2009/agents/28347
+description: ''
+gutenberg_issued: '2008-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'Caribbean Area -- History'
+- !lcc 'F2155'
+- !lcsh 'Pirates'
+title: 'Narrative of the shipwreck of the brig Betsey, of Wiscasset, Maine, and murder
+  of five of her crew, by pirates,
+
+  on the coast of Cuba, Dec. 1824.'
+url: http://www.gutenberg.org/ebooks/25022
